@@ -60,9 +60,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DantasMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DantasMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasMatheus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DantasMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DantasMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasMatheus&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -70,7 +70,15 @@
 <h2 align="center"> GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DantasMatheus&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DantasMatheus&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+###
+
+<h2 align="center">✍ Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ###
