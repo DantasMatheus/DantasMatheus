@@ -60,10 +60,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DantasMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DantasMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasMatheus&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=DantasMatheus&theme=ocean_dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DantasMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_darl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DantasMatheus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
 
